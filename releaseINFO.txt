@@ -1,0 +1,7 @@
+The game is to be released soon for windows machines after implementation of some remaining features related to results and statistics.
+
+The release will probably be a binary executable (.exe) wirh a package - everything bundled up as a zip file to reduce size of the distribution.
+
+Details on how to downlosd and run the game will be added to this file as well as readme.md once the released is underway.
+
+-pssolanki
