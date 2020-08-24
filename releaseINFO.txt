@@ -4,4 +4,7 @@ The release will probably be a binary executable (.exe) wirh a package - everyth
 
 Details on how to downlosd and run the game will be added to this file as well as readme.md once the released is underway.
 
+**IMPORTANT**
+Once the game is released ( for windows machines ), you would be able to download and run the game on your systems as well. **If you face any bug, security vulnerablity while playing the game - or request for a new feature or any suggestion to improve the app - Feel free to either create a new issue request from 'Issues' tab on Github window or contacting us on our social connections.
+
 -pssolanki
