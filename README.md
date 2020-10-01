@@ -1,5 +1,5 @@
 # TicTacToe-GUI
-Hello..
+
 A simple GUI TicTacToe game developed just for fun.
 
 **Allows keeping track of all the users registered and their results and statistics**
